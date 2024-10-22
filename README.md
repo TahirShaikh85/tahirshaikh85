@@ -1,7 +1,7 @@
 <h1 align="center">Heyy, I'm Tahir Shaikh</h1>
 <h3 align="center">A tech-savvy Full Stack Developer focused on building impactful products</h3>
 
-- 🔭 I’m currently working on [FitMastery | A one stop solution for gym businesses](www.fitmastery.in)
+- 🔭 I’m currently working on [FitMastery | A one stop solution for gym businesses](https://www.fitmastery.in/)
 
 - 🌱 I’m currently learning **React Native**
 
