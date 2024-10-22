@@ -5,7 +5,7 @@
 
 - 🧠 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, NextJS, Backend tech**
+- 💬 Ask me about **React, NextJS, Backend tech, DSA**
 
 - 📧 Feel Free to reach me out at **tahirthecoder@gmail.com**
 
