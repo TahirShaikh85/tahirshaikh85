@@ -3,13 +3,14 @@
 
 - 🔭 I’m currently working on [FitMastery | A one stop solution for gym businesses](https://www.fitmastery.in/)
 
-- 🌱 I’m currently learning **React Native**
+- 🧠 I’m currently learning **React Native**
 
 - 💬 Ask me about **React, NextJS, Backend tech**
 
 - 📧 Feel Free to reach me out at **tahirthecoder@gmail.com**
 
-- 🔴 Note: Most of my real magic happens in private repos—so please don’t judge my skills based on these public ones. They're just the tip of the iceberg! 😉
+- 📢 **Note**: Most of my real magic happens in private repos—so please don’t judge my skills based on these public ones. They're very basic & just a tip of an iceberg! 😉
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
